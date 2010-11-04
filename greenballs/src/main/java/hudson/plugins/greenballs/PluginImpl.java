@@ -47,7 +47,7 @@ public class PluginImpl extends Plugin {
         try {
             Field colorValue = Color.class.getDeclaredField("value");
             colorValue.setAccessible(true);
-            colorValue.setInt(ColorPalette.BLUE, new Color(172, 218, 0).getRGB());
+            colorValue.setInt(ColorPalette.BLUE, new Color(97, 209, 53).getRGB());
         } catch (Exception e) {
             logger.log(Level.WARNING, "Unable to change BLUE ColorPalette", e);
         }

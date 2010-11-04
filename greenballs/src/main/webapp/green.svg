@@ -313,15 +313,15 @@
       <stop
          offset="0.0000000"
          id="stop2431"
-         style="stop-color:#fffc32;stop-opacity:1.0000000;" />
+         style="stop-color:#cff1c4;stop-opacity:1.0000000;" />
       <stop
          offset="0.64485979"
          id="stop2433"
-         style="stop-color:#96d100;stop-opacity:1;" />
+         style="stop-color:#61d135;stop-opacity:1;" />
       <stop
          offset="1"
          id="stop2435"
-         style="stop-color:#4e9700;stop-opacity:1;" />
+         style="stop-color:#2a6e22;stop-opacity:1;" />
     </linearGradient>
   </defs>
   <metadata
